@@ -35,7 +35,7 @@ public class InternalController {
     private static InputStream is = null;
     private static JSONObject jObj = null;
     private static String json = "";
-
+    private static String temp = "temp";
 
 
     private InternalController(){
