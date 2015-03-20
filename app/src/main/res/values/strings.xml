@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KidSafeFusedv2</string>
+
+    <string name="hello_world">Hello world! v44</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtGpsDump">To Be Updated</string>
+</resources>
